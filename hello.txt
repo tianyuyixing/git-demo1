@@ -12,6 +12,8 @@ hello.git! hello qinqixin  我在网上了！！！
 我在本地库修改！
 我再次修改github的代码！
 我在本地修改代码！
+
+我要下载到本地！
 hello.git! hello qinqixin
 hello.git! hello qinqixin
 hello.git! hello qinqixin
